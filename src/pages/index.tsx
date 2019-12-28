@@ -311,7 +311,8 @@ const IndexPage = () => (
                     <a
                       href="https://gum.co/VXfflD?wanted=true&locale=es"
                       target="_blank"
-                      className="gumroad-button"
+                      data-gumroad-single-product="true"
+                      className="xgumroad-button"
                       css={css`
                         background-color: #0072bb;
                         color: white;
