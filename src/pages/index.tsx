@@ -307,8 +307,11 @@ const IndexPage = () => (
                       text-align: center;
                     `}
                   >
+                    <script src="https://gumroad.com/js/gumroad.js"></script>
                     <a
-                      href="#"
+                      href="https://gum.co/VXfflD?wanted=true&locale=es"
+                      target="_blank"
+                      className="gumroad-button"
                       css={css`
                         background-color: #0072bb;
                         color: white;
